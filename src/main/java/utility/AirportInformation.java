@@ -24,6 +24,7 @@ public class AirportInformation  implements Serializable {
     public AirportInformation() {
     }
 
+
     public String getAirportCity() {
         return airportCity;
     }
