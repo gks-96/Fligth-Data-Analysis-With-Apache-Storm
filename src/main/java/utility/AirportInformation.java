@@ -20,6 +20,7 @@ public class AirportInformation  implements Serializable {
         this.longitude = longitude;
     }
 
+
     public AirportInformation() {
     }
 
